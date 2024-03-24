@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou aprender a criar repositorios!
 
- <a href="https://esc20.github.io/html-css/"> execurtar o exercico 001 </a>
+ <a href="https://esc20.github.io/html-css/estudos/exercicios/index"> execurtar o exercico 001 </a>
